@@ -10,3 +10,5 @@
   #### The program is written in java and the interfaces are designed in XML
   
 #### The program is in apk format. The program must be downloaded to the Android phone. It will write a warning to you before installing the program, so do not worry
+
+  This site was built using [GitHub Pages](https://pages.github.com/).
